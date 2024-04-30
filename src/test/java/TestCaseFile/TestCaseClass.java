@@ -37,7 +37,7 @@ public class TestCaseClass extends BaseClass
 				s1[i-1][j]=DataDriverTesting.getCellValue(filename,"Sheet1",i,j);
 			}
 		}
-		return s1;
+		return s2;
 		
 	}
 	
